@@ -25,6 +25,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "/",
   },
+  verification: {
+    google: "EDFchPy1D7QRhS4obJmPdyq6wpH7IEOH0cI7GykWHHw",
+  },
   openGraph: {
     title: "ClipForge AI",
     description:
