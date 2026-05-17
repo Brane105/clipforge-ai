@@ -2,7 +2,7 @@ import { Sparkles, Swords, Timer, Trophy } from "lucide-react";
 
 export const siteConfig = {
   name: "ClipForge AI",
-  url: "https://clipforge-ai.vercel.app",
+  url: "https://clipforge-ai-iota.vercel.app",
 };
 
 export const features = [
